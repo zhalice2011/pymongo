@@ -4,6 +4,8 @@ bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
+__pycache__/
+.vscode/
 
 # Other files and folders
 .settings/
